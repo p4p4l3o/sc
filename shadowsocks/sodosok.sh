@@ -1,6 +1,6 @@
 #!/bin/bash
-#shadowsocks-libev obfs install by Akbar Maulana
-# My Telegram : https://t.me/Akbar218
+#shadowsocks-libev obfs install by Ridwan Store
+# My Telegram : https://t.me/Rifan_aje
 # ==========================================
 # Color
 RED='\033[0;31m'
