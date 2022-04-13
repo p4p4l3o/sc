@@ -56,6 +56,7 @@ hariini=`date -d "0 days" +"%Y-%m-%d"`
 expi=`date -d "$masaaktif days" +"%Y-%m-%d"`
 echo -e ""
 echo -e "©••»Informasi SSH & OpenVPN«••©"
+echo -e "~~>Script Mod By Papaleo"
 echo -e "=============================="
 echo -e "IP/Host       : $IP"
 echo -e "Domain        : ${domain}"
@@ -88,4 +89,4 @@ echo -e "Payload Websocket No TLS"
 echo -e "=============================="
 echo -e "GET / HTTP/1.1[crlf]Host: ${domain}[crlf]Upgrade: websocket[crlf][crlf]"
 echo -e "=============================="
-echo -e "${LIGHT}SCRIPT MOD X BY RIDWAN"
+echo -e "${LIGHT}SCRIPT MOD X BY PAPALEO"

@@ -1,5 +1,5 @@
 #!/bin/bash
-# My Telegram : https://t.me/Akbar218
+# My Telegram : https://t.me/Rifan_aje
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -29,7 +29,7 @@ fi
 clear
 echo "Checking VPS"
 clear
-# By Akbar Maulana
+# By Ridwan Store
 # ==================================================
 # Link Hosting Kalian
 akbarvpn="raw.githubusercontent.com/p4p4l3o/sc/main/ssh"
