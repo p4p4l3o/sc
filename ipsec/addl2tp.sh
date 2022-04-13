@@ -1,5 +1,5 @@
 #!/bin/bash
-# My Telegram : https://t.me/Akbar218
+# My Telegram : https://t.me/Rifan_aje
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -82,5 +82,5 @@ Password   : $VPN_PASSWORD
 Created    : $hariini
 Expired    : $exp
 ============================
-Script By RIDWAN STORE
+Script By PAPALEO STORE
 EOF
