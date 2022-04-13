@@ -15,7 +15,7 @@ echo -e "\033[1;96m║\033[1;95m ____  ____  ____  __  __  __  __  _  _  \033[1;
 echo -e "\033[1;96m║\033[1;95m(_  _)( ___)(  _ \(  \/  )(  )(  )( \/ ) \033[1;96m║"
 echo -e "\033[1;96m║\033[1;95m  )(   )__)  )   / )    (  )(__)(  )  (  \033[1;96m║"
 echo -e "\033[1;96m║\033[1;95m (__) (____)(_)\_)(_/\/\_)(______)(_/\_) \033[1;96m║"
-echo -e "\033[1;96m║            SC X Mod Ridwan112          ║"
+echo -e "\033[1;96m║            SC X Mod PAPALEO          ║"
 echo -e "\033[1;96m╚═════════════════════════════════════════╝"
 echo -e "${LIGHT}©-------------------------------------------------------------©"
 echo -e "${LIGHT}||                  ${CYAN}MENU UTAMA RIDWAN                    ©"
@@ -34,7 +34,7 @@ echo -e "${CYAN}11❖» TROJAN GO MENU                                          
 echo -e "${CYAN}12❖» PENGATURAN                                                ⊹"
 echo -e "${NC}13❖» EXIT                                                        ⊹"
 echo -e "${LIGHT}©-------------------------------------------------------------©"
-echo -e "${LIGHT}||                  ${CYAN}SCRIPT BY RIDWAN                     ©"
+echo -e "${LIGHT}||                  ${CYAN}SCRIPT BY PAPALEO                     ©"
 echo -e "${LIGHT}©-------------------------------------------------------------©"
 read -p "Select From Options [ 1 - 13 ] : " menu
 case $menu in
