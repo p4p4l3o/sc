@@ -1,5 +1,5 @@
 #!/bin/bash
-# My Telegram : https://t.me/Akbar218
+# My Telegram : https://t.me/Rifan_aje
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -69,4 +69,4 @@ echo -e "Expired    : $exp"
 echo -e "========================="
 echo -e "Link TrGo  : ${link}"
 echo -e "========================="
-echo -e "Script By RIDWAN STORE"
+echo -e "Script By PAPALEO STORE"
