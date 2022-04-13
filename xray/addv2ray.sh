@@ -1,5 +1,5 @@
 #!/bin/bash
-# My Telegram : https://t.me/Akbar218
+# My Telegram : https://t.me/Rifan_aje
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -108,3 +108,4 @@ echo -e "Link TLS    : ${xrayv2ray1}"
 echo -e "========================="
 echo -e "Link No TLS : ${xrayv2ray2}"
 echo -e "========================="
+echo -e "SCRIPT MOD X BY RIDWAN"

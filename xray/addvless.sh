@@ -1,5 +1,5 @@
 #!/bin/bash
-# My Telegram : https://t.me/Akbar218
+# My Telegram : https://t.me/Rifan_aje
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -78,4 +78,4 @@ echo -e "Link TLS    : ${xrayvless1}"
 echo -e "========================="
 echo -e "Link No TLS : ${xrayvless2}"
 echo -e "========================="
-echo -e "Script By RIDWAN"
+echo -e "Script By PAPA"
